@@ -1,0 +1,108 @@
+*{
+    margin: 1px;
+    padding: 1px;
+background-color: black;}
+header{
+    align-items: center;
+    display: flex;
+    color: azure;
+}
+header img{
+    border-radius: 5rem;
+    height: 5rem;
+}
+
+nav{
+    display: block;
+}
+nav div{
+    text-decoration: dashed;
+}
+
+ div div{
+   display: flex;
+   flex-direction: row;
+   margin-left: 2rem;
+   padding-top: 2rem;
+}
+
+div div h2{
+    margin-top: 1rem;
+    margin-left: 4rem;
+}
+
+
+div div p{
+    margin-top: 1rem;
+    margin-left: 4rem;
+}
+
+div div img{
+    color: black;
+    display: flex;
+    height: 20rem;
+    border-radius: 2rem;
+    width: 25rem;
+    flex-direction: row;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+nav div div ul{
+    color: black;
+    display: flex;
+    flex-direction: row;
+    text-decoration: dotted;
+    margin-left: 65rem;
+}
+
+nav div div ul li{
+    color: black;
+    display: flex;
+    flex-direction: row;
+    text-decoration: dotted;
+    font-size: 19px;
+    text-decoration: dashed;
+
+}
+
+
+nav div div ul li a{
+    color: black;
+    display: flex;
+    flex-direction: row;
+    text-decoration: dotted;
+    font-size: 19px;
+    text-decoration: dashed;
+    color: aliceblue;
+    margin-left: 5rem;
+    text-align: center;
+    font-size: 25px;
+
+
+}
+
+div p{
+    color: aliceblue;
+    font-size: 20px;
+    margin: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+    text-indent: 12px;
+
+}
+div section{
+    color: black;
+    align-items: center;
+    text-align: center;
+    background-color: rgba(0, 100, 0, 0.938);
+    padding-top: 4.3rem;
+    padding-bottom: 4.3rem;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+h2{
+    color:aliceblue;
+}
