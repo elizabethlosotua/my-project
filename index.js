@@ -1,5 +1,11 @@
-<script>
-    let example1 = "Hello world";
+const colorBtn =document.querySelector('.colorBtn');
+const bodyBcg = document.querySelector('body');
 
-    console. log (example1 .endswith( 'worl ',example1g.length -1));
-</script>
+const colors = ['yellow','red','green','#3b5998']
+
+colorBtn.addEventListener('click',changecolor);
+
+function changeColor () {
+bodyBcg.style.backgroundColor ='blue';
+    
+}
