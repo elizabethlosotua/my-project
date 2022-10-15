@@ -23,8 +23,5 @@ function fff() {
 
   {
     
-  "name": "Lisa",
-  "salary": 2000,
-  "id": 3
-}
+
 $
