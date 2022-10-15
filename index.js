@@ -6,4 +6,17 @@ function fff() {
   x.style.fontSize = "25px";
   x.style.color = "greed";
 }
-                                                                                                                                                       
+{
+    "employees"[
+      {
+        "id": 1,
+        "name": "Pankaj",
+        "salary": "10000"
+      },
+      {
+        "name": "David",
+        "salary": "5000",
+        "id": 2
+      }
+    ]
+  }                                                                                                                                                    
