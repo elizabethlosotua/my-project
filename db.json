@@ -1,19 +1,16 @@
 {
-    "todos": [
-{
-    "id": 0,
-    "name" :"Go to the shop"
-},
-
-{
-    "id": 1,
-    "name": "riding a bicycle"
-},
-{
-    "id": 2,
-    "name": "Get some milk"
-}
- ]
-}
+    "employees": [
+      {
+        "id": 1,
+        "name": "Pankaj",
+        "salary": "10000"
+      },
+      {
+        "name": "David",
+        "salary": "5000",
+        "id": 2
+      }
+    ]
+  }
 
 
