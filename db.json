@@ -1,25 +1,16 @@
 {
-    "employees": [
+    "articles": [
       {
         "id": 1,
-        "name": "Pankaj",
-        "salary": "10000"
+        "title": "Example Article",
+        "content": "This is an example."
       },
       {
-        "name": "David",
-        "salary": "5000",
-        "id": 2
+        "id": 2,
+        "title": "Second Article",
+        "content": "This is also an example."
       }
     ]
-  }
-    "id": 1,
-    "name": "Pankaj",
-    "salary": "10000"
-{
-  {
-    "name": "Lisa",
-    "salary": 8000,
-    "id": 3
   }
 
 
